@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Example.Abstractions
 {
-    public class AniversaryAPI : EmployeeBase<AniversaryAPI>
+    public class AniversaryAPI : EmployeeBase
     {
         public AniversaryAPI(DateTime dateTime) : base(dateTime)
         {

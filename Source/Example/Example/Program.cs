@@ -11,12 +11,12 @@ namespace Example
     {
         static void Main(string[] args)
         {
-            EmployeeBase<BirthayAPI> raymondBirthdayApi = new BirthayAPI(new DateTime(2020, 08, 14));
+            EmployeeBase raymondBirthdayApi = new BirthayAPI(new DateTime(2020, 08, 14));
 
-            EmployeeBase<BirthayAPI> philipBirthdayApi = new BirthayAPI(new DateTime(2020, 08, 17));
+            EmployeeBase philipBirthdayApi = new BirthayAPI(new DateTime(2020, 08, 17));
 
-            EmployeeBase<AniversaryAPI> philipAniApi = new AniversaryAPI(new DateTime(2020, 08, 14));
-            EmployeeBase<AniversaryAPI> rayAniApi = new AniversaryAPI(new DateTime(2020, 08, 17));
+            EmployeeBase philipAniApi = new AniversaryAPI(new DateTime(2020, 08, 14));
+            EmployeeBase rayAniApi = new AniversaryAPI(new DateTime(2020, 08, 17));
 
 
             raymondBirthdayApi.Execute();

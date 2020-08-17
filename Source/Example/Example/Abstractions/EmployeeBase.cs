@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Example.Abstractions
 {
-    public abstract class EmployeeBase<T>
+    public abstract class EmployeeBase
     {
         private DateTime _endDate;
 
@@ -19,7 +19,7 @@ namespace Example.Abstractions
 
         public bool Execute()
         {
-            Console.WriteLine($"Executing for {typeof(T).Name} now");
+            Console.WriteLine($"Executing for {this.GetType().Name} now");
 
             if (!HasEnded())
             {

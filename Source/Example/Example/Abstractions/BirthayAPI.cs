@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Example.Abstractions
 {
-    public class BirthayAPI : EmployeeBase<BirthayAPI>
+    public class BirthayAPI : EmployeeBase
     {
         public BirthayAPI(DateTime dateTime) : base(dateTime)
         {

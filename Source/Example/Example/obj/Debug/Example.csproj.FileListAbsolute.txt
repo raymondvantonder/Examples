@@ -5,3 +5,10 @@ C:\Users\rayvt\source\repos\Example\Example\obj\Debug\Example.csprojAssemblyRefe
 C:\Users\rayvt\source\repos\Example\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
 C:\Users\rayvt\source\repos\Example\Example\obj\Debug\Example.exe
 C:\Users\rayvt\source\repos\Example\Example\obj\Debug\Example.pdb
+C:\GitHub\Examples\Source\Example\Example\bin\Debug\Example.exe.config
+C:\GitHub\Examples\Source\Example\Example\bin\Debug\Example.exe
+C:\GitHub\Examples\Source\Example\Example\bin\Debug\Example.pdb
+C:\GitHub\Examples\Source\Example\Example\obj\Debug\Example.csprojAssemblyReference.cache
+C:\GitHub\Examples\Source\Example\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+C:\GitHub\Examples\Source\Example\Example\obj\Debug\Example.exe
+C:\GitHub\Examples\Source\Example\Example\obj\Debug\Example.pdb
